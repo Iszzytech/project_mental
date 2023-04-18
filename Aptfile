@@ -1,3 +1,4 @@
 portaudio19-dev
 libasound2-dev
-libsndfile-dev
+alsa-base
+alsa-utils
