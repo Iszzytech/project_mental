@@ -25,7 +25,6 @@ PyYAML==5.4.1
 rsa==4.7.2
 scipy
 six==1.15.0
-soundfile==0.12.1
 soxr==0.3.4
 tensorflow-cpu
 tqdm==4.61.0
