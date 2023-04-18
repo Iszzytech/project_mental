@@ -13,6 +13,7 @@ lazy_loader==0.2
 libclang==16.0.0
 librosa==0.10.0.post2
 llvmlite==0.39.1
+numba==0.56.4
 numpy==1.22.4
 oauthlib==3.2.2
 opencv-python==4.7.0.72
@@ -22,7 +23,6 @@ pandas==1.5.3
 PyAudio
 PyYAML==5.4.1
 rsa==4.7.2
-scikit-learn==0.24.1
 scipy
 six==1.15.0
 soundfile==0.12.1
