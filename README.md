@@ -9,12 +9,13 @@ Overall, this project demonstrates the effectiveness of CNNs in accurately detec
 
 # How to Setup the Project
 1. First you need python installed use version 3.8.5 or 3.9.13 to avoid compatibility issues
-2. CD into <working-directory>
+2. CD into 'working-directory'
 3. Create a virtual env and activate
 4. Run the code "pip install -r requirements.txt"
 5. If all went smoothly execute the code "flask run"
 6. If you have multiple python version simply use this code to create a virtual env on windows OS
-    "python -m virtualenv -p <installed-python-version-path>\python.exe myenv"
-7. Majorly the default path is located in "c:\users\<pc-name>\AppData\Local\Programs\Python" the you'll add \python.exe 
-8. Incase you can find AppData on your windows topbar click views -> show/hide -> allow hidden files.
+    "python -m virtualenv -p 'installed-python-version-path'\python.exe myenv"
+7. Majorly the default path is located in "c:\users\'pc-name'\AppData\Local\Programs\Python" the you'll add \python.exe 
+8. Incase you can find AppData on your windows topbar click views -> show/hide -> allow hidden files.  
+    
 Thanks.
