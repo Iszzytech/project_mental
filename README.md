@@ -9,7 +9,7 @@ Overall, this project demonstrates the effectiveness of CNNs in accurately detec
 
 # How to Setup the Project
 1. First you need python installed use version 3.8.5 or 3.9.13 to avoid compatibility issues
-2. CD into <Working-Dir>
+2. CD into <working-directory>
 3. Create a virtual env and activate
 4. Run the code "pip install -r requirements.txt"
 5. If all went smoothly execute the code "flask run"
